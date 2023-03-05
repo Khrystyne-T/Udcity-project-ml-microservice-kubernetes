@@ -6,20 +6,35 @@ In this project, you will apply the skills you have acquired in this course to o
 
 You are given a pre-trained, `sklearn` model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing). This project tests your ability to operationalize a Python flask app—in a provided file, `app.py`—that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 
-### Project Tasks
+### Udcity project 4 ml-microservice-kubernetes
 
-Your project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
-* Test your project code using linting
-* Complete a Dockerfile to containerize this application
-* Deploy your containerized application using Docker and make a prediction
-* Improve the log statements in the source code for this application
-* Configure Kubernetes and create a Kubernetes cluster
-* Deploy a container using Kubernetes and make a prediction
-* Upload a complete Github repo with CircleCI to indicate that your code has been tested
+This project operationalizes machine learning microservices using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized application.
+In this project sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on the data source site. This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls
 
-You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
+In this project, the following tasks were performed
 
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
+* Testing project code using linting
+* Completed a Dockerfile to containerize this application
+* Deployed a containerized application using Docker and make a prediction
+* Improved the log statements in the source code for this application
+* Configured Kubernetes and create a Kubernetes cluster
+* Deployed a container using Kubernetes and make a prediction
+* Uploaded a complete Github repo with CircleCI to indicate that the been tested
+
+Project Files:
+- README.md
+- circleci
+- model_data
+- output_text_files
+- app.py
+- Dockerfile
+- make_predictions.sh
+- Makefile
+- requirements.txt
+- resize.sh
+- run_docker.sh
+- run_kubernetes.sh
+- upload_docker.sh
 
 ---
 
