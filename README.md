@@ -19,18 +19,19 @@ In this project, the following tasks were performed
 
 Project Files:
 - README.md
-- circleci
-- model_data
-- output_text_files
-- app.py
-- Dockerfile
-- make_predictions.sh
-- Makefile
-- requirements.txt
-- resize.sh
-- run_docker.sh
-- run_kubernetes.sh
-- upload_docker.sh
+- [circleci](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/tree/main/.circleci)
+- [model_data](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/tree/main/model_data)
+- [output_text_files](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/tree/main/output_txt_files)
+- [Project-4-Screenshots](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/tree/main/Projec-4-Screenshots)
+- [app.py](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/app.py)
+- [Dockerfile](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/Dockerfile)
+- [make_predictions.sh](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/make_prediction.sh)
+- [Makefile](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/Makefile)
+- [requirements.txt](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/requirements.txt)
+- [resize.sh](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/resize.sh)
+- [run_docker.sh](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/run_docker.sh)
+- [run_kubernetes.sh](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/run_kubernetes.sh)
+- [upload_docker.sh](https://github.com/Khrystyne-T/Udcity-project-ml-microservice-kubernetes/blob/main/upload_docker.sh)
 
 ---
 
